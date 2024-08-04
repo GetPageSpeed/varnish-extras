@@ -1,0 +1,7 @@
+---
+
+repo: Dridi/libvmod-querystring
+summary: Query-string module for Varnish Cache
+description: |
+  Fine-grained control over a URL's query-string in Varnish Cache
+soname: querystring
